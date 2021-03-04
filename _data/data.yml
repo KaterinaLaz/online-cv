@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Lazari Aikaterini - Maria
     tagline: Ionian University Department of Informatics
-    avatar: 109966597_3333177480055403_5404016038066507865_n.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: p18laza@ionio.gr
