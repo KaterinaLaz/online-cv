@@ -45,6 +45,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+    
+      - C
+      - C++
+      - Python
+      - HTML / CSS
       
 education:
     - degree: Music School of Xanthi
@@ -56,37 +61,6 @@ education:
       university: Ionian University 
       time: 2018 - 
       details: |
-            
-            - C
-            - C++
-            - Python
-            - HTML / CSS
-       
-experiences:
-    - role: 
-      time: 
-      company: 
-      details: |
-        
-projects:
-    title: Projects
-    
-    assignments:
-      - title:
-        link: 
-        tagline: 
-
-
-publications:
-    title:
-    intro: |
-      
-    papers:
-
-      - title: 
-        link: 
-        authors: 
-        conference: 
 
 skills:
     title: Skills &amp; Proficiency
